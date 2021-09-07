@@ -18,7 +18,7 @@ Bachelor of Arts, Film & Media
 Freelance Product Designer for edtech and social good startups
 
 - Design high-fidelity prototypes, information architecture, wireframes, and mocks
-- Perform usability testing and qualitative research for award winning clients such as Blackbook and Thirstblocker
+- Perform usability testing and qualitative research for award-winning clients such as Blackbook 
 
 ## UX/UI Designer @ Ample Labs, Contract
 
