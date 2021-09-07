@@ -27,9 +27,9 @@ Freelance Product Designer for edtech and social good startups
 UX/UI Designer on the Product & Research Team to design AI chatbot
 
 - Mobile and Web UI design 
-- Create taskflows, userflows, wireframes, and prototypes 
-- Lead design sessions and hackathons
-- Conduct qualitative user research for accessibility and usability 
+- Created taskflows, userflows, wireframes, and prototypes 
+- Led design sessions and hackathons
+- Conducted qualitative user research for accessibility and usability 
 
 ## Design Teaching Fellow @ Blau Gold
 
