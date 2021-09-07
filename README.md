@@ -49,3 +49,9 @@ UX Research and Design consultant to Salesforce via Berkeley Business Society (H
 - Formed 20-page deliverable on how to improve usability of Einstein Analytics by 20%
 - Created sketches, wireframes, proto-personas, prototypes, and UX qualitative research
 
+## Tools
+
+- Figma
+- Illustrator
+- Photoshop
+- After Effects 
